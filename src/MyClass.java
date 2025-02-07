@@ -14,6 +14,8 @@ public class MyClass {
 
 
 
+        //techpro değişiklik 2
+        System.out.println("yeni branch");
 
 
     }
