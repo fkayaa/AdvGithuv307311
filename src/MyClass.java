@@ -6,6 +6,10 @@ public class MyClass {
 
         //degişiklik 2
         System.out.println("Adv Github...");
+
+        //değişiklik 3
+        System.out.println("bu derste branchler işlenecek");
+
     }
 
 }
