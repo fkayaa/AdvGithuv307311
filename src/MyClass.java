@@ -10,6 +10,12 @@ public class MyClass {
         //değişiklik 3
         System.out.println("bu derste branchler işlenecek");
 
+        //techpro değişiklik
+
+
+
+
+
     }
 
 }
